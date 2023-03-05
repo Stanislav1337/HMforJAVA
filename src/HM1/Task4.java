@@ -8,6 +8,7 @@ public class Task4 {
 //    одно решение или сообщить, что его нет.
 
 
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите данные: ");
