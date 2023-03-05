@@ -7,6 +7,7 @@ public class Task4 {
 //    например 2? + ?5 = 69. Требуется восстановить выражение до верного равенства. Предложить хотя бы
 //    одно решение или сообщить, что его нет.
 
+
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         System.out.print("Введите данные: ");
