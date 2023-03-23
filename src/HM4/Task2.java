@@ -6,7 +6,7 @@ package HM4;
 //        • first() — возвращает первый элемент из очереди, не удаляя.
 
 import java.util.Collections;
-import java.util.Iterator;
+
 import java.util.LinkedList;
 public class Task2 {
     public static void main(String[] args) {

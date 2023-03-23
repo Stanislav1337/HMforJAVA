@@ -2,10 +2,6 @@ package HM4;
 
 import java.util.Collections;
 import java.util.LinkedList;
-import java.util.Stack;
-
-
-
 
 //Пусть дан LinkedList с несколькими элементами. Реализуйте метод, который вернёет «перевёрнутый» список.
 public class Task1 {
